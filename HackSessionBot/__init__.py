@@ -30,7 +30,7 @@ app = Client(
     "SupremeStark",
     api_id = 22452748,
     api_hash = b758e563ae4680f921b8b4da5f311edc,
-    bot_token = 6272324802:AAFW0fUARf9uhc8hZpjd0dLkxp_pR3cFtzs )
+    bot_token = 6067013920:AAEr_elYrGgaan_56P2lG-6mmaJXRbp9wIk )
     
 
 
