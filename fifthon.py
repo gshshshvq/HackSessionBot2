@@ -1,8 +1,4 @@
-from telethon.errors.rpcerrorlist import YouBlockedUserError
-
-from telethon.tl import functions
-
-from hijri_converter import Gregorian
+from telethon.errors.rpcerrorlist import YouBlockedUs
 
 from telethon.tl import functions
 
