@@ -1,10 +1,10 @@
 class Config:
 
-    API_ID = 1518984
+    API_ID = 
 
-    API_HASH = "a4ab7c25e6d6c5a269b0522682551202"
+    API_HASH = ""
 
-    TOKEN = "6124983482:AAEw1jQBx6-LZgdBgrHKm502wf2xud66c7g"  
+    TOKEN = ""  
 
     START_PIC = "" 
 
